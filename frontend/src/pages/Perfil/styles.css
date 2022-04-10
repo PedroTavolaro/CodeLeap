@@ -1,0 +1,94 @@
+.perfil-container{
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+}
+
+.perfil-container header {
+    display: flex;
+    align-items: center;
+}
+
+.perfil-container header span {
+    font-size: 20px;
+    margin-left: 24px;
+    color: white;
+}
+
+.perfil-container header img {
+    height: 64px;
+}
+
+.perfil-container header a {
+    width: 260px;
+    margin-left: auto;
+    margin-top: 0;
+}
+
+
+.perfil-container header button {
+    height: 60px;
+    width: 60px;
+    border-radius: 4px;
+    border: 1px solid #dcdce6;
+    margin-left: 16px;
+}
+
+
+.perfil-container header button:hover{
+    border-color: #999;
+}
+
+.perfil-container h1 {
+    margin-top: 80px;
+    margin-bottom: 24px;
+    color: white;
+}
+
+.perfil-container ul {
+    display: column;
+    
+    list-style: none;
+}
+
+.perfil-container ul li {
+    background: #FFF;
+    padding: 24px;
+    border-radius: 8px;
+    position: relative;
+ 
+}
+
+.perfil-container ul li button {
+    position: absolute;
+    right: 24px;
+    top: 24px;
+    border: 0;
+}
+
+.perfil-container ul lu button:hover {
+    opacity: 0.8;
+}
+
+.perfil-container ul li strong {
+    font-size: 21px;
+    display: block;
+    margin-bottom: 16px;
+    color: #4b4b87;
+}
+
+.perfil-container ul li p + strong {
+    margin-top: 32px;
+    
+} 
+
+.perfil-container ul li p {
+    color: #29252b;
+    line-height: 21px;
+    font-size: 18.5px;
+}
+
+ 
+
+

@@ -32,7 +32,7 @@
 </p>
 
 <h4 align="center"> 
-    🚧  React Native Select 🚀 concluído...  🚧
+    🚧  React Select 🚀 concluído...  🚧
  </h4>
  
   ### Features
@@ -61,7 +61,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
-- [React](https://nodejs.org/en/)
+- [NodeJs](https://nodejs.org/en/)
 
 
 ## Como executar o projeto
@@ -71,7 +71,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [NodeJs](https://nodejs.org/en/),
-[NPM](https://www.npmjs.com/) e
+[NPM](https://www.npmjs.com/) 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🚀 Rodando a aplicação
@@ -80,7 +80,7 @@ Este projeto é divido em duas partes:
 1. Backend (pasta server) 
 2. Frontend (pasta web)
 
-💡O Frontend precisam que o Backend esteja sendo executado para funcionar.
+💡O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
 ## Clone este repositório
 $ git clone https://github.com/PedroTavolaro/CodeLeap.git
@@ -91,7 +91,7 @@ $ cd CodeLeap
 ## Acesse a pasta backend do projeto no seu terminal/cmd
 $ cd backend
 
-#### 🎲 Rodando o Backend (servidor)
+# 🎲 Rodando o Backend (servidor)
 
 ## Instale as dependências
 $ npm install 
@@ -104,7 +104,7 @@ $ npx knex migrate:latest
 ## Execute o backend
 $ npm start
 
-#### 🧭 Rodando a aplicação web (Frontend)
+# 🧭 Rodando a aplicação web (Frontend)
 
 ## Instale as dependências
 $ npm install ou yarn install

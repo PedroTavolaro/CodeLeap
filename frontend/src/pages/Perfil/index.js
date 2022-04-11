@@ -44,6 +44,10 @@ export default function Perfil() {
         navigate('/');
     }
 
+    async function handleEditIncident() {
+        navigate('/incidents/edit');
+}
+
     return (
         <div className="perfil-container">
             <header>
@@ -69,6 +73,10 @@ export default function Perfil() {
                         
                         <button onClick={() => handleDeleteIncident(incident.id)} type='button'>
                             <FiTrash2 size={20} color="#a8a8b3"/>delete
+                        </button>
+
+                        <button className='edit' onClick={() => handleEditIncident()} type='button'>
+                            <FiBox size={20} color="#a8a8b3"/>editar
                         </button>
                     </li>
                 ))}

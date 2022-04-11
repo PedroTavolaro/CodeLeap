@@ -40,7 +40,7 @@
 - [x] Login do usuário
 - [x] Cadastro do post
 - [x] Delete do post 
-- [ ] Edit do post
+- [ ] Edit do post (apenas página front)
 
 <h1 align="center">
   <img width="1550em" height="750em" alt="createLogin" title="#createLogin" src="./frontend/assets/codeleap.GIF" />

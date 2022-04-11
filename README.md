@@ -51,6 +51,7 @@
 <h1 align="center">
  <img width="1550em" height="750em" alt="login" title="#login" src="./frontend/assets/ProfileCadastroTree.png" />
    <img width="1550em" height="750em" alt="login" title="#login" src="./frontend/assets/Cadastro.png" />
+  <img width="1550em" height="750em" alt="login" title="#login" src="./frontend/assets/EditPost.png" />
 </h1>
 
 <h1 align="center">
